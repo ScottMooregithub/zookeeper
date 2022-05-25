@@ -69,6 +69,41 @@
       "species": "Tiger",
       "diet": "carnivore",
       "personalityTraits": ["hungry"]
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": ["hungry"],
+      "id": "10"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": ["hungry"],
+      "id": "11"
+    },
+    {
+      "name": "Larry",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": ["hungry"],
+      "id": "12"
+    },
+    {
+      "name": "terence",
+      "species": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": ["hungry"],
+      "id": "13"
+    },
+    {
+      "name": "terence",
+      "species": "lemur",
+      "diet": "herbivore",
+      "personalityTraits": ["anxious"],
+      "id": "14"
     }
   ]
 }
